@@ -1,0 +1,2 @@
+# MyLib
+private test project
